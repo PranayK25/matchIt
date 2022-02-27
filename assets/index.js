@@ -1,4 +1,4 @@
-export {default as MenuScreen} from './images/menu.png'
+export {default as MenuScreen} from './images/menu.jpeg'
 
 export {default as icon1} from './images/icon1.jpeg'
 export {default as icon2} from './images/icon2.jpeg'
