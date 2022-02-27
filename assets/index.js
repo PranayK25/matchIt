@@ -1,0 +1,11 @@
+export {default as MenuScreen} from './images/menu.png'
+
+export {default as icon1} from './images/icon1.jpeg'
+export {default as icon2} from './images/icon2.jpeg'
+export {default as icon3} from './images/icon3.jpeg'
+export {default as icon4} from './images/icon4.jpeg'
+export {default as icon5} from './images/icon5.jpeg'
+export {default as icon6} from './images/icon6.jpeg'
+export {default as icon7} from './images/icon7.jpeg'
+export {default as icon8} from './images/icon8.jpeg'
+export {default as emptyTile} from './images/empty.jpeg'
